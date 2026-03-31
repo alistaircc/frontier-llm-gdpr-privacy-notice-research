@@ -13,7 +13,7 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 
 ---
 
-### Steps to Execute 
+### 1. Steps to Execute 
 ---
 #### Generate LLM Privacy Notices
 1. Clone the repo
@@ -48,10 +48,10 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 
 ---
 
-### Steps to Execute 
+### 2. Steps to Execute 
 ---
 #### Run Cosine Similarity Data Assessment 
-##### 1. Open the Data_Analysis_Sentence_Transformers_Similarity.ipynb script file within Google Colab and change the following {folder_location} values match the file path of Datasets
+##### 1. Open the Data_Analysis_Sentence_Transformers_Similarity.ipynb script file within Google Colab and change the following {folder_location} values to match the file path of Datasets
 
   * folder_path = "/content/drive/MyDrive/{folder_name}/Datasets/**/*.txt"
   * directory_path = "/content/drive/MyDrive/{folder_name}/Datasets/"
@@ -63,7 +63,7 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 
 ---
 
-### Steps to Execute 
+### 3. Steps to Execute 
 ---
 #### Conduct Grading Rubric Operation 
 ##### 1. Open Google's NotebookLM and for a given app, upload the 18 LLM-generated privacy notices to the notebook (don't include the {app_name}_original_privacy_notice.txt)
