@@ -1,0 +1,782 @@
+Yango Privacy Notice
+Yango provides mobile and web-based applications (hereinafter “application” or “applications”) offering a wide range of services, including ride-hailing, food and package delivery, e-commerce, and fintech services.
+
+1.What Is This Privacy Notice For?
+You entrust us with your personal data, and we take this responsibility seriously. We are committed to protecting your privacy, and to being transparent about how we handle your information.
+
+This Privacy Notice explains what personal data we collect, how and why we use and share it, as well as the rights you have as a data subject.
+
+2.Who Is Processing Your Personal Data?
+2.1 Your personal data is processed by the company that provides the service in the country in which you are using this service.
+
+This company acts as a data controller under applicable privacy laws, and determines the purposes and means of the processing of personal data.
+
+If two or more controllers jointly determine the purposes and means of the processing of personal data, they are joint controllers. In this case, the first joint controller mentioned in the table is responsible for exercising your rights as a data subject and is your contact point. The joint controller mentioned in the second place is responsible for providing the technical means to help you exercise your rights.
+
+Brand
+
+Country
+
+Company
+
+Address
+
+Yango
+
+United Arab Emirates
+
+Yango GCC Electronic Transport Services LLC
+
+08-461, The Offices 4, One Central, Dubai World Trade Center, Dubai, UAE
+
+Morocco
+
+Yango Mar SARL
+
+1st Floor, corner building, Sidi Bennour Street and Soldat Taoufik Abdelkader Street, 20320 Casablanca, Morocco
+
+Benin
+
+Botswana
+
+Cameroon
+
+Colombia
+
+Democratic Republic of the Congo
+
+Ghana
+
+Guatemala
+
+Ivory Coast
+
+Mozambique
+
+Namibia
+
+Nepal
+
+Pakistan
+
+Peru
+
+Republic of the Congo
+
+Senegal
+
+Togo
+
+Venezuela
+
+Zambia
+
+RideTechnology Global FZ-LLC
+
+101, 1st Floor, Blvd. 4, Dubai Internet City, Dubai, UAE
+
+Angola
+
+Ridetech - Transportes e Tecnologias LDA
+
+59 Avenue 21 de Janeiro, Luanda, Angola
+
+Bolivia
+
+Ridetech BOL SRL
+
+Tropical Street, Torres Alas II, Floor PB, Office 3, Santa Cruz de la Sierra, Bolivia
+
+El Salvador
+
+Mobile Venture El Salvador S.A DE C.V.
+
+79 Avenida Norte y 3a Calle Poniente, Colonia Escalon #3698, San Salvador, El Salvador
+
+Ethiopia
+
+The list of the data controllers for each city is available here.
+
+Azerbaijan
+
+Ridetch Azarbaycan LLC
+
+49/C Tbilisi Avenue, 7th floor, Chirag Plaza, Baku, Azerbaijan
+
+Qatar
+
+Yango Transport Services W.L.L.
+
+63 Airport Road, Umm Ghuwailina Zone, 1st Floor, Office No. 126, Regus, Jaidah Square, Doha, Qatar
+
+Oman
+
+Cloud World Trading LLC
+
+P.O. Box 2505, Postal Code 130, North Aludhaybah Street, Bousher wilayah, Muscat Governorate, Oman
+
+Other countries
+
+RideTechnology Global FZ-LLC
+
+101, 1st Floor, Blvd. 4, Dubai Internet City, Dubai, UAE
+
+Yango Deli
+
+Azerbaijan
+
+Yango Delivery LLC
+
+55 Khojaly Avenue, Khatai district, 1025 Baku, Azerbaijan
+
+Ivory Coast
+
+Foodtech SARL
+
+Des Jasmins Street, Plot 30, Island 4, Lot 37, Cocody Danga, Abidjan, Ivory Coast
+
+Senegal
+
+RideTechnology Global FZ-LLC
+
+101, 1st Floor, Blvd. 4, Dubai Internet City, Dubai, UAE
+
+Zambia
+
+Yango Deli ZAM Ltd.
+
+7th Floor, Sunshare Tower, Stand No. LN-15584/1, Katima Mulilo Road, 15584 Lusaka, Zambia
+
+Bolivia
+
+Tech.EBiz BOL SRL
+
+Gral. Inofuentes 1348, Murillo, Calacoto, La Paz, Bolivia
+
+Yango Delivery
+
+Angola
+
+Bolivia
+
+Colombia
+
+Ghana
+
+Ivory Coast
+
+Pakistan
+
+Peru
+
+Senegal
+
+Serbia
+
+Zambia
+
+Yango Delivery FZ-LLC
+
+101-Sub 1, 1st Floor, Blvd. 4, Dubai Internet City, Dubai, UAE
+
+Morocco
+
+Logistics Technologies Morocco SARL
+
+265 Blvd. Zerktouni, 9th Floor, No. 92, Casablanca, Morocco
+
+United Arab Emirates
+
+Yango Delivery LLC
+
+Office FLR06-06.06-5, Dubai World Trade Center, Trade Center 2, Dubai, UAE
+
+Azerbaijan
+
+Yango Delivery LLC
+
+55 Khojaly Avenue, Khatai district, 1025 Baku, Azerbaijan
+
+Pakistan
+
+YRIDE PAK (SMC-PRIVATE) LIMITED
+
+14th Floor Xinhua Mall, 24-B-2, Gulberg III, Mahmood Ali Kasuri Road, Lahore
+
+Yango Scooters
+
+Colombia
+
+RideTechnology Global FZ-LLC
+
+101, 1st Floor, Blvd. 4, Dubai Internet City, Dubai, UAE
+
+Yango Pay
+
+Ivory Coast
+
+Yango CIV LLC
+
+Riviera Mbadon, Island 20, N° 179 B, 06 P.O. Box 534 ABJ 06, Abidjan, Ivory Coast
+
+Zambia
+
+RideTechnology Global FZ-LLC
+
+101, 1st Floor, Blvd. 4, Dubai Internet City, Dubai, UAE
+
+Yango Sell & Buy
+
+Ivory Coast
+
+Yango Delivery FZ-LLC
+
+101-Sub 1, 1st Floor, Blvd. 4, Dubai Internet City, Dubai, UAE
+
+2.2. Our applications use Yango ID as a single authentication tool. This tool is provided by different companies, depending on the country of your mobile phone operator, as defined in the Yango ID Service Terms of Use (available at the following address: https://yango.com/legal/yangoid_tou/). To find out how these companies process your personal data, please see the Yango ID Service Privacy Notice (available at the following address: https://yango.com/legal/yangoid_privacy_policy/).
+
+3.What Personal Data Is Processed, How, and Why?
+3.1 The categories of personal data we process, the purposes of the processing, and the legal bases for the processing are set out in the table below.
+
+Categories of data
+
+Purposes
+
+Legal bases
+
+Name or pseudonym
+
+Phone number
+
+To register your account
+
+To identify and authorise you as a user
+
+To communicate with you about your order
+
+To process your payments
+
+Contract
+
+Destination or delivery addresses
+
+To show you the services or goods available to order, purchase, and deliver in your area
+
+To place, process, and fulfil your order
+
+To help you quickly select addresses
+
+Contract
+
+Customer preferences
+
+To process and fulfil your order according to your preferences
+
+Contract
+
+Credit or debit card details
+
+E-wallet details
+
+Mobile money account details
+
+Payment method
+
+To process your payments
+
+Contract
+
+Your image
+
+To increase driver safety by ensuring that the account holder and passenger are the same person (only for night orders from new users paying cash)
+
+To confirm your identity to the driver
+
+Consent
+
+Voice recording
+
+To keep you and the driver safe in the event of an incident
+
+Legitimate interest in ensuring safety
+
+To facilitate the investigation of the incident and provide evidence for law enforcement and litigation
+
+Public interest
+
+To provide you with customer support
+
+Contract
+
+To control the quality of our customer support
+
+To control the quality of the service provided by drivers
+
+Legitimate interest in controlling the quality of our services
+
+Email address
+
+To send you service information about your orders
+
+To receive and process your customer support request
+
+Contract
+
+To inform you about our products and offers, and those of our partners
+
+To invite you to participate in contest marketing or other activities
+
+Consent
+
+User’s contacts
+
+To order a taxi for another person
+
+To share your itinerary with a trusted person
+
+Consent
+
+Data collected in forms: name, phone number, email address, user’s feedback, message, rating or reviews
+
+To receive feedback
+
+To improve our services
+
+Legitimate interest in receiving feedback and improving our services based on that feedback
+
+To publish your business or store reviews
+
+Consent
+
+IP address
+
+Device ID
+
+Device type and model
+
+Mobile operating system
+
+Browser or mobile application details
+
+To secure access to your account and our IT systems
+
+Legitimate interest in ensuring the security of our systems and our users' data
+
+To prevent fraud
+
+Legitimate interest in preventing fraud
+
+Geolocation data
+
+To check the availability of drivers
+
+To assign you a driver
+
+To send your location to the driver
+
+Contract
+
+To share your location with a third party
+
+Consent
+
+Advertising identifier
+
+To customise targeted ads
+
+Consent
+
+Yango user ID
+
+Frequency of orders
+
+Time taken to complete an order
+
+Most frequently ordered services or goods
+
+Screens viewed when interacting with the applications
+
+Average order value
+
+To improve our applications and the user experience
+
+To provide relevant features
+
+To change the user interface of our applications
+
+Legitimate interest in improving our applications, user experience, and services
+
+To analyse user activity for marketing purposes
+
+To improve our marketing and business strategy
+
+Legitimate interest in conducting marketing research
+
+To invite you to participate in contest marketing or other activities
+
+Consent
+
+Details of your orders: date and time of order, pick-up point, destination point, route, price, payment details, and contact details
+
+To provide you with a history of your orders
+
+To enable the repeat order feature
+
+Contract
+
+To prevent fraud
+
+Legitimate interest in preventing fraud
+
+Search history
+
+To inform you on relevant offers of other sellers or partners
+
+Consent
+
+To improve our applications and the user experience
+
+To provide relevant features
+
+To change the user interface of our applications
+
+Legitimate interest in improving our applications, user experience, and services
+
+Order details and history
+
+Contact details
+
+Social media account
+
+Comments, attachments, and other details that you provide or that the customer support team requests
+
+To provide you with customer support
+
+Contract
+
+Recording of conversations
+
+Your communications within the applications or by other means
+
+Other data you have provided
+
+To protect our legitimate rights and the rights of third parties
+
+To resolve disputes and legal claims
+
+To control the quality of the service provided
+
+Legitimate interest in protecting our rights, resolving disputes, and controlling the quality of our services
+
+For Yango Pay users only
+
+Photo
+
+Scan of your national ID
+
+National ID details: type, number, country of issue
+
+Name
+
+Residential address
+
+Proof of residential address
+
+Date of birth
+
+Phone number
+
+Email address
+
+Answers to additional security questions
+
+To register your account
+
+Contract
+
+To carry out anti-money laundering and know your customer verifications
+
+Legal obligation
+
+To prevent fraud or identity theft
+
+Legitimate interest in preventing fraud
+
+Credit or debit card details
+
+Bank account details
+
+Mobile money account details
+
+To process payments, withdrawals and replenishments
+
+Contract
+
+Status and other information related to anti-money laundering and know your customer verifications (we receive this information from partners who carry out the verification)
+
+To register your account
+
+To enable you to use the Yango Pay functionality
+
+Contract
+
+Yango user ID
+
+Partner’s user ID
+
+Account ID
+
+Account status
+
+Balance
+
+Withdrawals
+
+Replenishments
+
+Transaction date and time
+
+Merchant or purpose of the transaction
+
+Transaction amount and status
+
+Transaction ID
+
+Transaction history
+
+Bill amount
+
+Loan amount
+
+Debt amount
+
+To make payments
+
+To send, receive, and withdraw electronic funds
+
+To process bill payments
+
+To receive account statements
+
+To get a loan
+
+To write off funds to repay a loan
+
+Contract
+
+Yango user ID
+
+Partner’s user ID
+
+Transaction history
+
+Transaction amount
+
+Transaction ID
+
+Fee amount
+
+To charge fees for using Yango Pay
+
+Contract
+
+Status and other information related to anti-money laundering and know your customer verifications (we receive this information from partners who carry out the verification)
+
+Answers to additional security questions
+
+Transaction history
+
+To prevent fraud
+
+Legitimate interest in preventing fraud
+
+To detect suspicious transaction
+
+To report suspicious transactions to financial regulators
+
+Legal obligation
+
+Transaction history
+
+Order history
+
+Average order value
+
+To assess your eligibility for a loan
+
+Contract
+
+For Yango Sell&Buy users only
+
+Photos
+
+Videos
+
+Social media account
+
+Description of your ads
+
+To publish your ad
+
+Contract
+
+Reviews
+
+To publish your review
+
+Consent
+
+3.2 This personal data is mandatory to register an account: name or pseudonym, and phone number. An email address is also required to register an account in Finland and Norway. If you choose not to provide this information, you will not be able to register your account.
+
+This personal data is mandatory to register a Yango Pay account: name, phone number, and national ID. If you choose not to provide this information, you will not be able to register your account. The national ID is used to carry out the mandatory Anti-Money Laundering (AML) and Know Your Customer (KYC) verifications. If you choose not to provide a national ID, you will only be able to use the limited functionality of Yango Pay.
+
+This personal data is mandatory to use your account: destination or delivery addresses. If you choose not to provide this information, you will not be able to place an order.
+
+3.3 You may refuse to give your consent to the processing of your personal data, and it will not affect your ability to use our applications. You can withdraw your consent at any time by contacting us or using automated means, if they are available in your application and/or in your country.
+
+3.4 Audio and video recording in a vehicle is an emergency feature. It will only be used in exceptional cases of threat, conflict, or danger when the driver activates the Conflict Button in accordance with the Yango Terms of Use. Both the user and the driver are notified prior to the start of the recording for dispute resolution and security purposes.
+
+4.How Is Your Personal Data Protected?
+4.1 We have implemented appropriate technical and organisational measures to protect your personal data against unauthorised, accidental or unlawful destruction, loss, modification, misuse, disclosure or access, and against all other unlawful processing.
+
+4.2 These security measures have been implemented taking into account the state of the art, the cost of implementation, the risks posed by the processing, and the nature of the personal data concerned.
+
+4.3 Personal data is processed automatically without access by our staff in most cases. However, if such access is necessary, your personal data can only be accessed by employees whose duties require the use of this information. These employees are required to follow internal rules and protocols for processing personal data, and to comply with technical and organisational security measures to protect your personal data.
+
+5.Who Do We Share Your Personal Data with?
+5.1 Your personal data is shared with parties directly involved in the provision of the services within the application:
+
+Our partners who are involved in obtaining and handling your order and who provide software solutions for the same purpose;
+Payment service providers, e-wallets providers, and mobile money service providers that facilitate electronic transactions;
+Insurance companies;
+Our partners who provide us with electronic payment functionality and carry out anti-money laundering and know your customer verifications;
+If relevant to your country, our partners who issue virtual bank cards to our users;
+Our partners who provide loans to Yango Pay users;
+Our affiliates who provide authentication tools;
+Our affiliates and third parties who provide us with servers, data storage, and other infrastructure facilities; and
+Our affiliates and third parties who assist us with customer support.
+The entities that may be involved in personal data processing are listed on the following page: https://yango.com/legal/list_of_entities_data_processing. Not all the entities listed are necessarily involved in the processing of your personal data, as their involvement depends on the service you use and the country where you use it.
+
+5.2 Your personal data is shared with parties entitled to receive your personal data under the law to which the relevant data controller is subject:
+
+For example, if law enforcement authorities have a lawful right to have access to your personal data, or financial regulators are duly entitled to investigate suspicious activities or transactions (according to the applicable law in your country and/or the country where our entity providing a service to you is incorporated).
+5.3 Your personal data is shared with parties helping us to improve our applications:
+
+For example, data about technical errors encountered while using our services are shared with our affiliates who are involved in the development of our applications.
+5.4 Your personal data is shared with parties helping us to inform you about products, services, and offers:
+
+For example, advertising or device identifiers may be shared with companies that provide us with advertising or analytics services.
+6.Who Do We Transfer Your Personal Data to?
+Parties we share your personal data with may be located in different countries.
+
+Some of these countries may not provide the same level of data protection or data subject rights as the country where you use a service. In such cases, we follow the necessary procedures to ensure that your rights are respected and that your personal data are protected during and after the transfer.
+
+Such procedures may include (subject to applicable privacy laws):
+
+i) Data protection commitments for data transfers through standard contractual clauses issued by relevant authorities;
+
+ii) Additional contractual obligations based on our assessment of the local law of the country where your personal data are transferred and processed;
+
+iii) Registration or authorisation of the transfer from competent data protection authority; and/or
+
+iv) Additional technical and organisational security measures to prevent unlawful processing of your personal data, i.e. processing that is incompatible with the laws of the country where we provide the service, or unauthorised access to your personal data.
+
+You can contact us for information about the countries to which your personal data may be transferred and the safeguards in place.
+
+7.How Long Will Your Personal Data Be Retained?
+7.1 We process your personal data until the purpose of the processing has been achieved.
+
+7.2 The actual retention period depends on the personal data processed and the country where the processing takes place. Please refer to the Data Retention and Deletion Policy specific to your country (available at the following address: https://yango.com/legal/yango_data_retention_policy/ or the table indicating the relevant retention periods for your location.
+
+7.3 We may continue to process your personal data, even after you deleted it from our applications, if such processing is required by law or is necessary to protect our rights and interests or the rights and interests of third parties, in particular in the context of court proceedings.
+
+The ability to delete data may also be limited by laws relating to freedom of expression and information.
+
+8.What Are Your Rights?
+You have a number of rights under privacy laws. The rights you have depend on the purpose for which we process your personal data, and the applicable law.
+
+You can always access, rectify, or erase your personal data yourself after logging into the application using our authentication tool.
+
+You may exercise the following rights by contacting our customer support team through our applications.
+
+8.1 Right of access
+
+You always have access to your personal data. You have the right to request a copy of your personal information.
+
+8.2 Right to rectification
+
+You have the right to ask us to update or rectify information that you believe is incorrect, inaccurate, or outdated. You also have the right to ask us to complete any information that you believe is incomplete.
+
+8.3 Right to withdraw consent
+
+You have the right to withdraw your consent to the processing of your personal data where such processing is based on your consent.
+
+8.4 Right to erasure
+
+You have the right to ask us to erase your personal data in certain circumstances, for example, if the data is no longer needed for our purposes, if we process your data without a valid legal basis or otherwise unlawfully, if you have withdrawn your consent (if the processing was based on your consent), if we collected your data when you were a child, or in other circumstances according to applicable laws.
+
+8.5 Right to restriction of processing
+
+You have the right to restrict the processing of your personal data in certain circumstances, for example, if you wish to exercise your right to rectification, you may request that we restrict the processing of your data until it has been rectified.
+
+8.6 Right to data portability
+
+If your personal data is processed by automated means based on your consent or based on a contract with us (e.g. to provide you with the features of the application), you have the right to receive your data in a structured, commonly used, and machine-readable format.
+
+8.7 Right to object
+
+You have the right to object to the processing of your personal data if you consider that the processing violates your rights. Please note that the right to object can only be exercised if we are processing your data on the basis of legitimate interests or public interest.
+
+You have the right not to be subjected to a decision based solely on automated processing, including profiling.
+
+8.8 Right to lodge a complaint
+
+We are always ready to consider your complaints and suggestions. Please send them to our customer support team.
+
+If you believe that your rights have been violated, you have the right to lodge a complaint with a supervisory authority in the country of your habitual residence, place of work, or place of the alleged infringement.
+
+A list of the relevant supervisory authorities and their contact details is available at the following address: https://yango.com/legal/yango_list_of_sa.
+
+9.How to Contact Us?
+9.1 If you need assistance, you can contact the customer support team through the mobile application after logging in.
+
+9.2 Our Data Protection Officer (DPO) can be contacted by email at dpo-yt@yango.com.
+
+9.3 Please include the phone number you used to register with our application in your message to identify you promptly and process your request efficiently.
+
+10. How Is This Document Modified?
+In the event of substantial changes to this Privacy Notice, we may use any available means (push notification in the application, SMS, or email) to notify you.
+
+Date of publication: 06.11.2025
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/22042025/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/19032025/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/11032025/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/03032025/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/28022025/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/25112024/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/09082024/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/14032024/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/30112023/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/21092023/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/12092023/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/28082023/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/27022023/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/11012023/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/07122022/
+
+Previous version of the document: https://yango.com/legal/yango_privacy_notice/12072022/

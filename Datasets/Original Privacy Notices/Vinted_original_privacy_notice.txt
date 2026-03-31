@@ -1,0 +1,544 @@
+Privacy Policy
+Last updated: 04/08/2025
+
+Our role in your privacy
+
+
+"We" are Vinted, UAB – the company behind the Vinted app and website, which you simply know as "Vinted". You'll find our contact details below.
+
+When you use Vinted (and in some other cases we mention below), we act as your "data controller". That means we're responsible for looking after your data and making sure it's handled according to data protection laws like the General Data Protection Regulation ("GDPR").
+
+To keep things transparent, we've put together key information on what data we collect and why, how we use it, who we share it with, how long we store it for, and how we keep it secure. We've also included your rights and choices when it comes to your data – so you're always in control.
+
+Data we collect
+
+
+From the moment you start interacting with Vinted, whether you're signing up, browsing the app, or getting in touch, you trust us with your data.
+
+By "your data", we mean personal data. That's any information that can identify or be linked to you as an individual.
+
+The categories and amount of data we collect depend on how you use Vinted and how you interact with us:
+
+The data you provide
+When you use Vinted or otherwise interact with us, you share different kinds of data:
+
+Identification data, such as your full name.
+Contact data, such as your email address, phone number, and address.
+Account data, such as your username, password, verification details, and account settings.
+Demographic data, such as your language, gender, and age (date of birth).
+Location data, such as your country and city.
+Activity data, such as your profile description, profile picture, holiday mode, Vinted members you follow, ratings and reviews, media uploads and similar information.
+Listing data, such as details about the items you list, like the name, category, features, photos, price, and parcel size.
+Communication data, such as messages you send and receive (including emails, in-app chats, and customer support conversations), plus the date, time, participants, and any attachments.
+Financial data, such as your Vinted Balance, chosen payment method, payment card details (e.g. card identifier, last four digits), and bank account number.
+Transactional data, such as purchase and payment history, donations, order records, invoices, receipts, and income reports.
+Shipping data, such as the delivery method you choose, pick-up or drop-off addresses, and parcel tracking details.
+Commercial data, if you're using Vinted as a Pro seller. This includes things such as your business name, registration numbers, and details about the business representative.
+Feedback and survey data, including recordings from any interviews you may have taken part in.
+Legal and compliance data, such as consent records, legal claims, copies of documents confirming that you own your Vinted account, and copies of your contracts with us.
+We only collect the data that's needed based on what you do on Vinted. So if you haven't bought and sold anything, we won't have your financial, transactional, and shipping data. And if you haven't communicated with anyone, we won't have your communication data.
+
+Most of the time, sharing your data is totally up to you. But in some cases, it's required by law or needed to enter into or perform a contract with you. Learn more about these situations and what happens if you don't provide your data.
+
+The data we collect automatically
+Some data is collected automatically when you use Vinted:
+
+Activity data, such as the date and time of your session and how long it lasts, pages visited, search history, user journey, features used, as well as how you interact with our ads, or ads you've seen on other platforms.
+Location data, such as your approximate location based on your IP address.
+Device and technical data, such as your IP address and browser type, as well as the type of device you're using, your operating system, screen resolution, device settings, crash logs and technical diagnostics, and any unique device identifiers.
+Security data, such as fraud or malware detection alerts, account restriction (blocking) details (dates, reasons), cybersecurity incident reports and similar information.
+Data from other sources
+We also receive some of your data from other sources:
+
+Data from other platforms. If you sign up, log in, or verify your Vinted account with Google, Facebook, or Apple, we receive your full name, email address, and profile picture – depending on what you've allowed those platforms to share.
+Data from service providers and partners. For example, when you use payment services on Vinted, our payment service providers share your transaction data (such as the date, status, or any issues), and security data (such as fraud alerts or restrictions). If you use our integrated shipping options, shipping providers share parcel tracking updates so we can keep you informed and help resolve any issues.
+Data from other Vinted members. This might include reviews and ratings about you, as well as any issues reported about you by other members.
+Data from social media. If you interact with Vinted content on social media, we may see your comments, messages, likes or other engagement.
+Data from public sources. For example, we may see your public reviews of Vinted on third-party sites.
+Data from other sources. We might also receive information about you from your representatives (for example, when they exercise your rights on your behalf), official authorities (like when they forward a request or complaint), rights holders (such as an intellectual property owner reporting a possible rights issue), or from companies we acquire or merge with.
+How we use data
+
+
+Making Vinted work
+We use your data to help you sign up, log in, and enjoy everything Vinted has to offer – whether that's buying and selling pre-loved goods, making and receiving secure payments, having your items delivered smoothly, using extra services like item verification, or getting support when you need it.
+
+So you can access and browse Vinted
+Why we use your data: We use a small amount of your data to make Vinted work smoothly, even if you're just browsing and haven't signed up yet. This includes showing the right version of the platform for your country, remembering your language and other preferences, and allowing you access to other essential functions and information.
+
+Categories of data we use: Demographic data, location data, activity data, security data, device and technical data. Learn more about these data categories
+
+Legal basis for using your data: It’s in both your legitimate interest and ours to ensure that Vinted works well and is easy to use from the moment you visit.
+
+How long we keep this data: We store your data until the cookies or similar technologies that collect it expire or are deleted. Learn more
+
+“Legitimate interest” allows a legal basis for us to use your data for a clear and necessary purpose, as long as your rights and freedoms aren’t unfairly impacted and we’ve assessed that any effect on you is minimal and justified.
+
+So you can set up and access your Vinted account
+Why we use your data: To create your account and get you started with Vinted, we need a few basic details. This helps you log in, fill out your profile, and be visible to other members. It also allows you to link your social media to build trust, manage your settings, get important updates like changes to Vinted's Terms and Conditions or Privacy Policy, and recover your account if needed.
+
+Categories of data we use: Identification data, contact data, account data, demographic data, location data, activity data, commercial data, legal and compliance data. Learn more about these data categories
+
+Legal basis for using your data: We process your data based on our contract with you (Vinted's Terms and Conditions). When you share optional information – like extra profile details or linking your social media – we use that data based on your consent (which you can withdraw at any time).
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below. If you remove any optional information before then, we'll stop keeping it sooner.
+
+When you sign up, we'll ask you to confirm your email to make sure it's correct and belongs to you. Learn more
+
+Only a few profile details are visible to other Vinted members. You're always in control of what you share, and your real name is never publicly visible, though it might be shown to another member if you've bought or sold something. Learn more
+
+If you deactivate your account, we hold on to your data a little longer in case you want to return or if the deactivation was accidental. This also helps to prevent misuse of the platform. Learn more
+
+So you can buy and sell on Vinted
+Why we use your data: We use your data to make it easy for you to buy and sell items on Vinted, as well as to access related services. This includes listing and browsing items, connecting  with other members, using features like Bumps, Closet Spotlight, or Item Verification, and giving or receiving feedback. We also use your data to keep you informed about your transactions, like status updates or purchase documents (such as invoices).
+
+Categories of data we use: Identification data, contact data, account data, location data, activity data, listing data, communication data, transactional data, shipping data, commercial data, legal and compliance data. Learn more about these data categories
+
+Legal basis for using your data: We process your data based on our agreement with you (Vinted's Terms and Conditions).
+
+How long we keep this data: We keep your data for the standard period mentioned in the 'How long we keep your data' section below. If you've listed items, we keep the listing data for 18 months and 7 days after your last activity. When you delete a listing, its photos stay for 6 months, but any metadata is removed right away. Deleted messages are hidden immediately and permanently deleted after 3 months.
+
+So you can make and receive payments
+Why we use your data: We use your data so you can pay for items and services, get paid when you sell something, activate your Vinted Balance, and manage things like refunds or donations.
+
+Categories of data we use: Identification data, contact data, account data, demographic data, financial data, transactional data, commercial data, legal and compliance data, device and technical data. Learn more about these data categories
+
+Legal basis for using your data: We process your data based on our agreement with you (Vinted's Terms and Conditions). When you choose to save your card details for future purchases, we rely on your consent. You can withdraw it anytime by removing the card in your Payments settings.
+
+How long we keep this data: We keep your data for the standard period mentioned in the 'How long we keep your data' section below. Saved card details are kept until you remove them or your Vinted account is deleted, unless we need to retain them longer to prevent fraud.
+
+Payments on Vinted are processed by trusted third-party providers. Which one you use depends on your country — check here for details. To learn how your data is handled, take a look at the privacy policy of Mangopay, Adyen, or Vinted Pay.
+
+In some cases, your payment provider may ask you to confirm your identity for legal or security reasons (like Know Your Customer, or KYC requirements). Learn more
+
+So you can send and receive your items
+Why we use your data: We use your data to make shipping smooth and reliable whenever you buy or sell items on Vinted. This means sharing information with shipping partners, providing you with the shipping labels they generate, helping you track your package, and more.
+
+Categories of data we use: Identification data, contact data, shipping data. Learn more about these data categories
+
+Legal basis for using your data: We process your data based on our agreement with you (Vinted's Terms and Conditions).
+
+How long we keep this data: We keep your data for the standard timeframe listed in the 'How long we keep your data' section below. Shipping data is kept for up to 6 months.
+
+When you use prepaid shipping, we share the necessary details with the shipping carrier you selected, so they can create a shipping label and deliver your package. In this case,the carrier is responsible for your shipping data and acts as the data controller. For details, check out Vinted Go's Privacy Policy and see the full list of carriers here.
+
+If you buy or sell something, the other member may see your full name and delivery address, as this information is needed to send or return the order. This information may also appear on the shipping label. Learn more
+
+So you can enjoy a more personal Vinted experience
+Why we use your data: We use your data to personalise your experience on Vinted. This includes customizing your feed, ranking and recommending content that is most relevant to you, improving your search results, and sending you useful suggestions or notifications, so you can get the most out of using Vinted in a way that feels truly yours.
+
+Categories of data we use: Account data, demographic data, location data, activity data, communication data, listing data, transactional data, shipping data, legal and compliance data, device and technical data. Learn more about these data categories
+
+Legal basis for using your data: To rank items and recommend things you might like, we process your data based on our contract with you (Vinted's Terms and Conditions). When you choose to personalise your experience in your profile, for example by telling Vinted your clothing or shoe size, favouriting items, or following brands or other Vinted members, we rely on your consent (which you can withdraw at any time). In other cases, we, and you as a member, have a legitimate interest in making Vinted more relevant, useful, and enjoyable for you.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below. Your recent searches are kept for up to 6 months unless you remove them yourself.
+
+You're in control. You can manage most personalisation preferences directly in your profile. Learn more
+
+To give you a better experience with more personalised and relevant recommendations, we use recommender systems. Learn more
+
+So you can reach out for support when you need it
+Why we use your data: We use your data to provide you with support whenever you have a question, request, or issue. Whether you're an active Vinted member or just someone contacting us with an inquiry, we use your data to respond, offer guidance, and review any appeals or reports, so we can get things resolved as quickly and smoothly as possible.
+
+Categories of data we use: Identification data, contact data, account data, demographic data, activity data, communication data, and other data listed in the 'Data we collect' section, which may be needed depending on the specific request or situation. Learn more about these data categories
+
+Legal basis for using your data: If you're a Vinted member and reach out to us about your use of the platform, we process your data based on our contract with you (Vinted's Terms and Conditions). When non-members contact us, we rely on our legitimate interest in being accessible and responsive to inquiries, as well as the interest of those contacting us to receive timely and helpful information or support.
+
+How long we keep this data: We use your data until your question or issue is resolved. After that, we store the related data for 2 years for general support requests and 3 years for privacy-related ones. If you deactivate your account before then, we'll delete data from general support requests after the standard period explained in the 'How long we keep your data' section below. For purchase disputes, we retain the data for 1 year after the dispute has been resolved.
+
+We use automated tools to help us respond more quickly and accurately to some of your inquiries, so you get the best possible support experience. These tools improve over time by analysing interactions (in a way that respects your privacy), helping us keep making our support services better. Learn more
+
+Keeping you and Vinted safe
+We use your data to make sure Vinted is a safe place for everyone. This means protecting against scams, making sure your account and payments are secure, and enforcing our rules so Vinted stays a trustworthy and welcoming space for all of our members.
+
+So everyone can use Vinted safely
+Why we use your data: We use your data for tools that help protect Vinted from scams, spam, cyberattacks (like denial-of-service attacks), web scraping, and other harmful activity. This includes checking things like your connection details, restricting access from suspicious IP addresses, and taking other steps to help keep Vinted secure for everyone.
+
+Categories of data we use: Activity data, location data, device and technical data, and security data. Learn more about these data categories
+
+Legal basis for using your data: It’s in our legitimate interest, and yours, to protect the platform and its members from abuse, fraud, and security threats. For certain activities covered in Vinted's Terms and Conditions, we process your data based on our contract with you.
+
+How long we keep this data: We store your data for up to 6 months from the day you last accessed Vinted.
+
+So your Vinted account is protected
+Why we use your data: We use your data to help keep your Vinted account safe and make sure only you have access to it. This includes adding extra verification steps when you log in, helping you set a strong password, offering a secure way to change it, monitoring for suspicious activity on your account, and temporarily restricting access (until you verify your phone number or provide documents confirming account ownership) if we think your account might be at risk or could pose a risk to others. We also hold onto your account for a short time after deactivation, to protect it from accidental or malicious deletion, and to make it easier for you to restore your account if you'd like to return to Vinted. This also helps prevent misuse of the platform.
+
+Categories of data we use: Identification data, contact data, account data, activity data, communication data, legal and compliance data, device and technical data, and security data. Learn more about these data categories
+
+Legal basis for using your data: It's in our legitimate interest, and yours, to keep your Vinted account secure and accessible, as well as to prevent misuse of the platform.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below. Any documents you send to confirm account ownership are kept for 3 days.
+
+You have the right to object. For example, if you can't verify your phone number, just reach out to us and share your reasons. We'll review your situation carefully and let you know what we can do.
+
+So your payments are secure and valid
+Why we use your data: We use your data to help keep your payments on Vinted safe and lawful. This means checking that the payment methods you use really belong to you and looking out for any signs of fraud, like unauthorised card use or invalid transactions made to imitate real ones. If we detect anything suspicious, we may take action, such as cancelling a payment or restricting the use of certain cards on the platform.
+
+Automated checks: To keep payments safe, we use automated tools that help us quickly spot potential fraud. These tools check things like transaction details, account activity, and device information against known fraud patterns. If something seems unusual, a payment may be declined, put on hold, or the account may be temporarily restricted. In many cases, our team reviews these situations before any final decision is made. If your case hasn't yet been checked by a person, you have the right to request a human review, express your view, and challenge the decision. Just reach out to us and we’ll be happy to help.
+
+Categories of data we use: Identification data, contact data, account data, activity data, communication data, financial data, transactional data, shipping data, legal and compliance data, listing data, location data, device and technical data, feedback data, and security data. Learn more about these data categories
+
+Legal basis for using your data: We process your data based on our contract with you (Vinted's Terms and Conditions), which covers preventing and detecting fraudulent payments, including through automated tools.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below. Any proof of ownership for payment methods is stored for 3 days after the security check, while data used to detect and block suspicious payments is stored for up to 2 years. For fraud prevention, payment card data is kept for 180 days after the card expires if it was used for payments, or until the end of the card's expiry month if not.
+
+So we can uphold Terms and Conditions and the law
+Why we use your data: We use your data to help ensure that everyone on Vinted plays by the rules – by following our Terms and Conditions and complying with the law. This includes making sure that prohibited items aren't listed, preventing intellectual property infringements, identifying Pro sellers, preventing scams, spam, fraud and other potential misuse of the platform, and ensuring Vinted is only used as intended. Vinted members can also report anything inappropriate to us. If we detect or suspect any violation of our Terms and Conditions or illegal activity, we may take corrective actions against your account. These actions, which are fully described in our Terms and Conditions, include blocking your account or restricting certain features while we review the case. We will always inform you when we take these steps.
+
+Automated checks: To keep our community safe and trustworthy, we use automated tools that help us quickly spot and prevent harmful activity on Vinted. These tools check things like registration details, account activity, listings, and device information against known fraud or misuse patterns. If something seems unusual, an account may be blocked, temporarily restricted while we review the situation, or subject to other corrective actions described in our Terms and Conditions. If your case hasn't yet been checked by a person, you have the right to request a human review, express your view, and challenge the decision. Just reach out to us and we’ll be happy to help.
+
+Categories of data we use: Depending on the situation, we may use any relevant categories of data listed in the 'Data we collect' section. For moderation purposes and to apply corrective actions, we typically use account data, activity data, communication data, shipping data, listing data, location data, device and technical data, and security data.
+
+Legal basis for using your data: We process your data based on our contract with you (Vinted's Terms and Conditions), which covers moderation actions such as blocking accounts or removing listings. We also rely on our legitimate interest, and yours, to keep Vinted safe, trustworthy, and legally compliant, which allows us to enforce and maintain corrective actions even after our contract with you has ended. 
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below. Proof of an item's authenticity is stored for 2 years, in case disputes arise. For blocked accounts, we retain the data needed to maintain the block or suspension for as long as it is active. If the block is permanent, we'll hold onto the data for 7 months from the date of blocking, in case you'd like to appeal under the Digital Services Act.
+
+Improving your Vinted experience
+We use your data to better understand your experience on Vinted – like how you use the platform, how you respond to features and ads, how satisfied you are, and whether everything works as it should. These insights help us tweak our platform and improve our services, so we can keep making Vinted more useful, relevant, and enjoyable for you.
+
+So we can analyse and improve Vinted
+Why we use your data: We analyse your data to understand how you engage with our services and campaigns, so we can make Vinted better for everyone. This includes analysing how you navigate the platform – such as the pages you visit, how long you stay, what you click on, how you interact with ads, and how smoothly everything works for you. We also assess things like shipping data to estimate environmental impact, helping us make informed improvements across the platform.
+
+Categories of data we use: Depending on the situation, we may use any relevant categories of data listed in the 'Data we collect' section.
+
+Legal basis for using your data: We, and you as a member, have a legitimate interest in Vinted working well and improving over time.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below.
+
+So you can share your feedback with us
+Why we use your data: We use your data to invite you to share your thoughts and experiences with Vinted, whether through surveys, interviews, product testing, or other feedback activities. We then analyse this feedback and survey data to understand what's working, what could be better, and how we can improve the platform. If you leave feedback (e.g. reviews) directly or via third-party platforms, we also use it to respond, follow up with you, and incorporate it into future improvements.
+
+Categories of data we use: Identification data, contact data, account data, demographic data, activity data, feedback and survey data, legal and compliance data. Learn more about these data categories
+
+Legal basis for using your data: When we invite you to provide feedback, it's because we, and you as a member, have a legitimate interest in improving Vinted. When you choose to take part in our feedback projects, we rely on your consent to use your data for this purpose.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below.
+
+So you can enjoy a secure platform that keeps learning and improving
+We continually improve Vinted's internal technologies to make them smarter, safer and more efficient – helping us provide our services, enhance them, and keep the platform secure.
+
+This includes developing tools such as internal machine learning models. We do not commercialise these models – that is, we neither sell them nor make them otherwise available to third parties. We only use them to the extent necessary to deliver and improve the services you signed up for, and to help keep Vinted secure – for example, to enhance your member experience when uploading or searching for items, or to support security measures like fraud detection and prevention (as described earlier in our Privacy Policy).
+
+To develop these models, we use information that does not contain personal data – for example, item photos or descriptions (category, price, colour, brand, size, condition, etc.).
+
+For marketing purposes
+We use your data to keep you in the loop with updates about Vinted, including news, offers, and other information we think you'll find useful. We also run promotional campaigns, competitions, referral programs, and social media initiatives to grow our community. By using your data, we can make these activities more relevant and engaging for you.
+
+So you can get relevant news and offers
+Why we use your data: We use your data to keep you updated about Vinted – including news, special offers, and content from our partners. We personalise these updates, like addressing you by username or tailoring information to your interests. You'll usually get these as in-app notifications, text messages, or emails.
+
+Categories of data we use: Identification data, contact data, account data, demographic data, location data, activity data, communication data, shipping data, legal and compliance data, device and technical data. Learn more about these data categories
+
+Legal basis for using your data: We rely on our legitimate interest in promoting and growing our business, improving member engagement, and our members' legitimate interest in receiving relevant content, to send you updates about our services through in-app notifications and to personalise that content so it's more relevant to you. When it comes to promotional emails, text messages, push notifications, or content from our partners, we only send these if you've given us your consent.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below. If you withdraw your consent to receive certain notifications, we'll stop using your data for that purpose immediately.
+
+To unsubscribe from marketing emails, just click the link at the bottom of those emails, or update your preferences in your Notifications settings.
+
+We also send certain non-promotional emails and notifications, which you may receive even if you haven't given consent. This is because these are required by law or are necessary to fulfil our contract with you (Vinted's Terms and Conditions). This includes things like order status updates, changes to our rules, updates to our Privacy Policy, and other important information.
+
+So you can join our promotional campaigns
+Why we use your data: From time to time, we run promotional campaigns and may invite you to take part. This could involve sharing your content (like photos or videos) on social media, participating in interviews with journalists, or being featured in other promotional activities. We use your data to assess whether a campaign might be a good fit, send you an invitation, get your consent, manage any necessary contracts, and coordinate the campaign.
+
+We also give you the option to have your anonymised listings featured on social media and other websites. This can increase visibility and may lead to quicker sales, but you can always choose to opt out at any time in your Privacy settings.
+
+Categories of data we use: Identification data, contact data, account data, demographic data, location data, activity data, listing data, communication data, transactional data, commercial data, feedback and survey data, legal and compliance data, and other data needed for a specific campaign. Learn more about these data categories
+
+Legal basis for using your data: We invite you to take part in our promotional campaigns – and check if you're eligible – based on our legitimate interest (and yours) in promoting both you and Vinted. If you agree to take part, any further use of your data will be based on your consent or on a contract between you and Vinted.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below. If you participate in a campaign, we'll keep the relevant data until that campaign ends.
+
+So you can connect with us via social media
+Why we use your data: We use data collected through our social media channels, for example, when you follow us, like or comment on our posts, share our content, or send us a message. This helps us manage our social media presence and engage with the community. It also allows us to analyse interactions so we can improve how we use these platforms over time.
+
+Categories of data we use: Identification data, communication data, and data from social media platforms. Learn more about these data categories
+
+Legal basis for using your data: It’s in our legitimate, and yours, to run and improve our social media accounts.
+
+How long we keep this data: We use your data for as long as both your account and our account remain active on the relevant social network.
+
+In some cases, we act as joint controllers with social media platforms. This means we share responsibility for how your data is used. We've set up agreements with these platforms to clarify who's responsible for what when it comes to handling your data. You can read more about those agreements on the platforms right here.
+
+So you can help the Vinted community grow
+Why we use your data: We use your data to support projects that help grow the Vinted community. For example, if you take part in our referral program, where you invite a friend to join Vinted and receive a reward, we use your data to manage and run that program smoothly.
+
+Categories of data we use: Identification data, contact data, account data, demographic data, activity data, and other data relevant to the specific project. Learn more about these data categories
+
+Legal basis for using your data: When the project is governed by Vinted's Terms and Conditions or specific program rules, we process your data based on our contract with you. In other cases, it’s in our legitimate interest, and yours, to expand and support the Vinted community.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below.
+
+So you can see ads that are relevant to you
+Why we use your data: If you give your consent, we use your data to show you personalised ads that are more likely to match your interests. We also allow our advertising partners to collect certain device and technical data via cookies or similar technologies to display tailored ads – but only if you've agreed to it.
+
+Categories of data we use: Activity data, demographic data, device and technical data. Learn more about these data categories
+
+Legal basis for using your data: We only use your data for this purpose when we have your consent.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below.
+
+You're in control. You can manage your personalised advertising preferences at any time through your Vinted settings.
+
+For legal purposes
+We use your data to meet the legal requirements that apply to us. This includes helping you exercise your statutory rights (such as your privacy rights), providing information to authorities when required, complying with consumer protection, tax, accounting, digital services, and archiving regulations, and more. We also use your data to protect our rights and interests, particularly in the case of disputes, investigations, or complaints.
+
+So we can comply with applicable laws
+Why we use your data: We use some of your data to meet legal requirements and to help our partners comply with the law. This includes supporting you in exercising your legal rights, like privacy rights, and keeping records to show we handled them properly.. It also covers collecting and storing data when required by consumer protection, tax, accounting, digital services, financial compliance or archiving laws, as well as removing illegal content.
+
+When required, we also share your data with law enforcement and other government authorities. For example, under the DAC7 Directive, we're required to collect and report specific information to tax authorities.
+
+Sometimes our partners need your data to meet their legal obligations – for example, so Pro sellers can issue invoices or payment service providers can perform identity checks (KYC). In such cases, we may share your data with them or enable them to collect it directly.
+
+Categories of data we use: We may use any relevant categories of data listed in the 'Data we collect' section. The amount of data we collect and use may vary depending on the country you live in, but we always aim to use as little of your information as possible.
+
+Legal basis for using your data: We process your data because it's necessary for us to comply with legal requirements, such as those under the DAC7 Directive or the Digital Services Act. When we share your data with partners for this purpose, or enable them to collect it directly, we rely on our legitimate interest – and that of our partners – in facilitating compliance with legal requirements.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below. However, laws in some countries may require us to keep certain data for longer. For example, if you're a Pro Seller, we store your data for 6 months after deactivation, in line with the Digital Services Act. Transaction-related data is stored for 10 years, as required by accounting and financial reporting laws.
+
+Before sharing anything with authorities, we carefully check to make sure it's really necessary and required by law, because protecting your privacy matters to us.
+
+Data retention requirements vary by country. For more specific information, feel free to reach out to us.
+
+So we can defend our rights and legitimate interests
+Why we use your data: If there's a dispute, complaint, or legal issue, we use your data as needed for the establishment, exercise or defence of legal claims. We also keep some of your data for a limited time as evidence to protect against potential claims. For example, if you've made transactions, we retain the relevant data for as long as the law allows payment disputes (such as chargebacks) to be raised.
+
+Categories of data we use: To protect against potential payment disputes, we need your account data, communication data, contact data, device and technical data, feedback data, financial data, identification data, listing data, location data, security data, shipping data, and transactional data. In other cases, we may use any relevant categories of data listed in the 'Data we collect' section, depending on the situation.
+
+Legal basis for using your data: We have a legitimate interest in establishing, exercising or defending legal claims, and in protecting our rights and interests.
+
+How long we keep this data: If there's ever a dispute, complaint, or legal issue, we'll use this data until the matter is resolved. After that, we'll archive it for up to 5 years. To protect against potential payment disputes, if you've made transactions, we keep the relevant data for 13 months after the payment is completed (provided there's no pending actions or disputes related to that payment).
+
+So we can ensure business continuity and growth
+Why we use your data: In the event that there's ever a business change at Vinted – like joining with another company, being acquired, moving to a new platform, or other routine organisational or operational decisions – we may need to use your data to make sure everything keeps running smoothly.
+
+Categories of data we use: Depending on the situation, we may use any relevant categories of data listed in the 'Data we collect' section.
+
+Legal basis for using your data: We have a legitimate interest in keeping the business running and growing.
+
+How long we keep this data: We store your data for the standard period mentioned in the 'How long we keep your data' section below.
+
+Who we share your data with
+
+
+Sometimes, we need to share your data with others. When necessary for the purposes we've explained, we share your data with the following recipients:
+
+Other Vinted members and non-registered users
+Your username, listings, reviews and some other details are visible to other Vinted members. This is how the platform connects buyers and sellers.
+
+If you buy or sell something, the other member may see more information, such as your full name and delivery address, as this information is needed to send the order. This information may also appear on the shipping label.
+
+If you join Vinted through a referral link, the member who referred you may see that you've signed up and met the conditions needed for them to receive a reward.
+
+Some of your data, like photos from your listings, might also be visible to people who aren't signed in as registered Vinted members – for example, visitors browsing the app or website, as well as people who come across your listings through ads on other websites.
+
+Before uploading or sharing anything, think about what you're comfortable with. For example, check item photos to make sure they don't show your face, tattoos, or other details that could identify you. You also control what's shown on your profile. Learn more
+
+Vinted Pro sellers
+When you buy from someone with a Pro seller badge, we share some of your data with their business. In these cases, both Vinted and the Pro seller become responsible for your data in a setup called joint controllership, based on a contract between us and the Pro seller.
+
+Joint controllership only applies to specific situations listed in the Vinted Pro Terms and Conditions, not to everything in this Privacy Policy.
+
+Both Vinted and Pro sellers must follow data protection laws like the GDPR. But when acting as joint controllers, we've agreed on who handles what. Vinted is responsible for:
+
+Being your main point of contact for privacy-related matters.
+Managing your privacy rights requests.
+Sharing clear information about how your data is used.
+Informing you about the joint controllership.
+Notifying you about any relevant data breaches.
+Other responsibilities, such as keeping your data secure and maintaining records of data processing activities, are handled by both us and the Pro seller.
+
+We are here for you if you have any questions or want to exercise your privacy rights. Just use our contact details below to reach out.
+
+Service providers and partners
+To help you buy, sell, ship, and pay smoothly, and to keep Vinted running securely, we share your data with trusted service providers. These partners help us with things like payments, deliveries, customer support, logistics, cloud storage, security, fraud prevention, system maintenance, technical support, marketing, advertising, analytics, and communications.
+
+We may also share your data with legal advisors, attorneys, notaries, auditors, banks, accountants, translators, insurers, consultants, and others who support various aspects of our operations.
+
+Some of these service providers are based in countries outside the European Economic Area (EEA). When that's the case, we take extra steps to protect your data:
+
+For the UK, when your data is transferred to recipients based there, we rely on the European Commission's decision that the UK has adequate data protection.
+For the US, we rely on the EU-US Data Privacy Framework and/or use European Commission-approved standard contractual clauses in our agreements to ensure safe and legal data transfers.
+For other non-EEA countries, we use European Commission-approved standard contractual clauses in our agreements to ensure safe and legal data transfers.
+The specific service providers we share your data with depend on how you use Vinted, which country's platform you're on, and other factors. For example, here you can see which provider handles payments in your country, and here you can check which carriers are currently available for shipping. If you'd like to know exactly which recipients (or categories of recipients) your data has been shared with, you can exercise your right of access. Learn more
+
+Vinted affiliates and investors
+We share your data with other companies in our corporate group who help us operate and improve Vinted. This includes support with things like payments, shipping, direct marketing, fraud prevention, customer support, and internal administrative tasks.
+
+Most of these companies are based in the European Economic Area (EEA), but some are located outside it. When that's the case, we take extra steps to protect your data:
+
+For the UK, when your data is transferred to Vinted companies based there, we rely on the European Commission's decision that the UK has adequate data protection.
+For the US, we rely on the EU-US Data Privacy Framework and/or use European Commission-approved standard contractual clauses in our agreements to ensure safe and legal data transfers.
+We may also share your data with (potential) investors or buyers.
+
+If you'd like to know which specific companies in the Vinted group have received your data, you can exercise your right of access. Learn more
+
+Government agencies and public authorities
+Sometimes, we might need to share your data with law enforcement, courts, tax offices, financial regulators, or other government agencies.
+
+We only do this when there's a legal reason to, for example, if the law requires it, if we suspect illegal activity, or in rare and serious cases like those involving potential harm or safety concerns on our platform. We may also need to share your data to establish, exercise, or defend against legal claims.
+
+Before sharing anything with authorities, we carefully check to make sure it's really necessary, because protecting your privacy matters to us.
+
+Other recipients
+We may also share your data with others when you've given us permission or when there's a clear legal basis and need to do so. This could include with your legal representative or another company if you request data portability.
+
+How long we keep your data
+
+
+We keep your data only as long as needed for the purposes described above. Once we no longer need it, we either delete it or make it anonymous.
+
+In most cases, we store your data while you're actively using Vinted, and for up to 5 years after you stop.
+
+If you deactivate your Vinted account, it will be instantly closed and hidden from everyone else. However, we'll keep your data for 3 months in case you want to return or if the deactivation was accidental. This also helps prevent misuse of the platform.
+
+Exceptions to the usual data retention period
+Sometimes, we need to keep your data for a shorter or longer period of time. This depends on how you've used Vinted, what kind of data we've collected, and the legal requirements in your country. For example:
+
+Contacting us: If you've reached out to our customer support team for help, we hold onto your data for 2 years for all general support tickets and 3 years for privacy-related requests. If your Vinted account is deleted before, the data from general support tickets will be removed sooner.
+Transactions: We keep data related to your transactions for 13 months after payment is complete (provided there's no pending actions or disputes related to that payment) to defend ourselves against possible payment disputes and to help prevent payment fraud. Some transaction-related data is stored for 10 years, as required by accounting and financial reporting laws. Payment card data is kept to prevent fraud and to allow you to save cards for future purchases. For fraud prevention, the data is kept for 180 days after the card expires if it was used for payments, or until the end of the card's expiry month if not. Saved cards are kept until you remove them or your Vinted account is deleted.
+Blocked or suspended members: We retain the data needed to maintain the block or suspension for as long as it is active. (If the block is permanent, we'll hold onto the data for 7 months from the date of blocking, in case you'd like to appeal.)
+For more detailed information about how long your data is used and stored for different purposes, please see the section 'How we use data'.
+
+How we protect your data
+
+
+We follow strict data protection laws like the GDPR and have a range of security measures in place to help keep your data safe. But protecting your data is a shared responsibility.
+
+Read on to learn more about how we keep your data secure and what steps you can take to ensure your data is protected.
+
+Technical protections
+We use advanced technical measures and physical safeguards to protect your data. This includes things like encrypted connections, firewalls, access controls, and regular security check-ups.
+
+Organisational means
+We have dedicated teams for security, privacy, and compliance, led by experienced professionals. We also have a Data Protection Officer who oversees how we handle your data. Our employees follow strict confidentiality rules and internal policies to help keep your data secure.
+
+Your role
+We take data protection seriously and are investing in strong security measures. But it's a joint effort, and staying aware when using online services helps us keep you and your data safe. Please be careful with the data you share, and keep your login details safe. If you have any concerns about your data or notice anything unusual, contact us right away.
+
+Your choices
+
+
+You're in control of your data. You can choose not to share certain information with us, decline consent for specific uses or turn off non-essential cookies and similar technologies – these are just some of the options available to you.
+
+You can choose what you share with us
+In most cases, sharing your data on Vinted is entirely up to you. You decide what to include in your profile, what descriptions to add to your listings, and what feedback to leave for others – it's your choice what to share and what to keep private.
+
+However, there are times when certain data is necessary:
+
+If it's required by law. Sometimes, you'll need to share some information because the law requires it. For example, we are legally obliged to collect your data for tax purposes and share it with the relevant tax authorities. Also, our payment service providers might need documents to verify your identity (such as a government-issued ID) for financial regulations, like Know Your Customer (KYC) or anti-money laundering (AML) rules. If you don't provide this, you will not be able to use Vinted or some features – like withdrawals from your Vinted Balance – will be limited.
+If it's required to enter into or perform a contract with you (Vinted's Terms and Conditions). In these cases, not sharing your data may limit your experience or mean you can't use Vinted. For example, without registration details, you can't create an account. If you don't provide delivery information, you won't be able to send or receive parcels. If we suspect your account was accessed by someone else, we may ask for extra proof of identity – until you provide that information, we may need to temporarily restrict access to protect your account.
+Before uploading or sharing anything, think about what you're comfortable with. For example, check item photos to make sure they don't show your face, tattoos, or other details that could identify you. You also control what's shown on your profile. Learn more
+
+You can choose whether or not to give your consent
+Sometimes we ask for your consent to use your data for specific purposes, like sending you marketing emails. It's completely up to you to say yes or no.
+
+Your choice is always respected. If you don't give consent, it won't negatively affect your access to Vinted. You just might miss out on extras like personalised offers, updates, or recommendations.
+
+You can also change your mind anytime and withdraw your consent. Just keep in mind: withdrawing consent doesn't affect how we used your data before you took it back.
+
+You can easily manage most of your data permissions in your Privacy settings.
+
+You can disable cookies and similar technologies
+You can choose to turn off cookies and similar technologies if they are not strictly necessary.
+
+To block cookies and similar technologies, you can adjust your browser settings or go to Cookie settings. You can also delete any cookies already stored through your browser.
+
+Blocking all cookies may affect how Vinted works, since some features rely on them to function properly. For more control, try adjusting specific cookie preferences. Learn more
+
+Your rights
+
+
+Data protection laws like the GDPR grant you several rights when it comes to your data. These rights include accessing, correcting, deleting, objecting to or restricting the use of your data. You can also request to move your data to another service, withdraw your consent for its use at any time or lodge a complaint with a data protection authority if needed.
+
+However, please note that there may be legal exceptions or restrictions to these rights.
+
+If you want to exercise any of these rights, just reach out to us using the contact details provided below. Please note, we may need to verify your identity first to keep your data safe.
+
+You have the right to access your data
+You can ask us if we're holding any of your data and request a copy of it, however, we won't be able to include any data that could harm someone else's rights or freedoms. We'll also tell you why we use your data, who we share it with, how long we keep it for and other important details.
+
+If you need a copy of your account data, the fastest way to get it is to go to your Privacy settings and tap Request data.
+
+You have the right to correct your data
+If any of your data is outdated, incorrect, or incomplete, you can easily update it at any time in your Profile settings. Prefer not to do it yourself? No problem. Just reach out to us and we'll handle it for you.
+
+Want to change your username? It's easy – just go to your Profile settings. Keep in mind, there might be some extra requirements. Learn more
+
+You can change or delete the feedback you've left for another Vinted member at any time. However, feedback left about you can only be changed by the person who wrote it. If you'd like it updated, we recommend contacting them directly, or, if you feel the information is incomplete, you can reply to the feedback and share any additional details. We only step in to edit or remove feedback if it violates our Community Standards. Learn more
+
+You have the right to erasure of your data
+We don't keep your data forever. We delete or anonymise it when it's no longer needed for the purposes described above, so we'll eventually “forget about you” even if you don't make a request. Of course, you can also ask us to delete your data at any time, but keep in mind this isn't always possible.
+
+If you do make a request, we'll review your situation and delete your data if it's no longer needed for the reasons we collected it, if you withdraw your consent (where that's the legal basis we rely on to use it), if you object to our use of your data and we don't have a strong reason to continue using it, or other conditions apply under data protection laws like the GDPR.
+
+You don't have to cite a specific reason, but if you do, it may help us process your request more quickly.
+
+If, after reviewing your request, we determine there are still legitimate reasons to keep your data, we'll let you know.
+
+If you want to deactivate your account, you can do so easily in your Account settings. Once deactivated, your account will be closed and hidden from other members right away. Learn more
+
+You have the right to restrict how your data is used
+In certain situations, you can ask us to limit how we use your data.
+
+For example, you can ask us to temporarily restrict the processing of your data if you believe the data we have is inaccurate and you want us to pause using your data while we verify it, if you think your data is being used unlawfully and you prefer restriction over deletion, or if we no longer need your data, but you need it to establish, exercise, or defend legal claims – among other reasons under data protection laws like the GDPR.
+
+While a restriction is in place, we'll only process your data (with the exception of storage) with your consent, or when necessary for legal claims, to protect someone else's rights, or for important public interest reasons. We'll also let you know before any restriction is lifted.
+
+You have the right to transfer your data to another service
+You have the right to data portability – that means you can request a copy of your data and have it transferred to another service. If technically possible, we can also transfer it directly to the service of your choice. However, we won't be able to include any data that could harm someone else's rights or freedoms.
+
+If you need a copy of your account data, the fastest way to get it is to go to your Privacy settings and tap Request data.
+
+You have the right to object to us using your data
+You can object to us using your data when we rely on legitimate interest as a legal basis.
+
+If you object, we'll stop processing your data unless we have a strong legal reason to continue that overrides your interests, rights and freedoms, or we need it to establish or defend legal claims. To help us better assess your objection, you can include specific reasons related to your individual situation when submitting your request.
+
+If your objection is about direct marketing, we'll stop using your data for that purpose immediately, with no exceptions.
+
+You can manage most of your data preferences at any time in your Privacy settings. To unsubscribe from marketing emails, simply go to your Notifications settings or click the unsubscribe link at the bottom of any of those emails.
+
+You have the right to withdraw your consent
+If you've given us consent to use your data (meaning this is the legal basis for processing), you can withdraw it at any time – without affecting the lawfulness of any processing we did before you withdrew it.
+
+When you withdraw your consent, we'll stop using your data for the reasons you agreed to, unless we have another legal basis to continue.
+
+You can manage most of your data preferences at any time in your Privacy settings. To unsubscribe from marketing emails, simply go to your Notifications settings or click the unsubscribe link at the bottom of any of those emails.
+
+You have rights related to automated decisions and profiling
+You have the right not to be subject to decisions made solely by automated processing (like customer profiling) if those decisions have a significant legal or similarly significant impact on you.
+
+There are a few exceptions to this rule. Automated decisions may be allowed if they're necessary to enter into or carry out a contract with you (Vinted's Terms and Conditions), if the law permits them and we provide appropriate safeguards, or if you've given your explicit consent.
+
+In any of these cases, we'll make sure your rights are protected. This includes giving you the chance to express your point of view, request human involvement, and challenge the decision.
+
+If your listing was hidden or removed, or if your Vinted account was banned, you can appeal the decision – whether it was made automatically or not. Learn more
+
+We use recommender systems to improve your experience by showing more relevant listings and content. Learn more
+
+You have the right to lodge a complaint
+If you have concerns about how we handle your data, we encourage you to reach out to us first using the contact details below. We're here to help and want to resolve any issues.
+
+If you're not satisfied with our response, you also have the right to file a complaint with a data protection authority. You can contact the authority in the country where you live, work, or where the issue took place.
+
+You can find a list of relevant data protection authorities here.
+
+Contact us
+
+
+If you have any questions about how we handle your data, or if you'd like to exercise your privacy rights, you can contact us using this form or by emailing privacysupport@vinted.com.
+
+We also have a Data Protection Officer (DPO), who acts as an independent advocate for the proper care and use of your data.
+
+If you'd like to get in touch with our DPO, you can use the contact details above – just mention your message is for the DPO. You can also write to them by post at:
+
+Data Protection Officer
+
+Vinted, UAB
+
+Svitrigailos st. 13
+
+LT-03228 Vilnius
+
+Republic of Lithuania
+
+We may update this page from time to time. If we make significant changes, we'll let you know either via email or in the app, but it's a good idea to check this page occasionally to stay up to date.

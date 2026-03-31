@@ -1,0 +1,435 @@
+PRIVACY NOTICE / YOUR PRIVACY RIGHTS
+ 
+
+If you are a resident of California, Colorado, Connecticut, Utah, or Virginia, refer to Section 11 for more information about your specific privacy rights.
+
+ 
+
+1. Introduction
+ 
+
+The GoBrands Inc. group of companies (operating as “Gopuff”), and its affiliated companies, including Beverages & More Inc. d/b/a BevMo! (collectively, “us,” “we,” or “our”) collect and process information about you as described in this Privacy Notice (“Notice”).  This Notice contains details about how we collect, use, and disclose Personal Information that we obtain from and about you when you interact with us on our websites, via our mobile apps, in our stores, via email, on social media, and through other online and offline means.  Please read this Notice carefully.
+
+ 
+
+Applicability: This notice covers the following categories of individuals:  
+
+Customers and users of our websites, mobile apps and other online content on which this Notice is displayed;
+
+Shoppers in our stores; and
+
+Representatives and employees of suppliers and other business partners (“Business Contacts”).
+
+ 
+
+We may provide further supplemental notices, as appropriate.
+
+ 
+
+This Notice does not apply to the following information:
+
+Information about our employees and contractors and agents acting in similar roles.
+
+Independent delivery partners.
+
+Current, past, and prospective job applicants.
+
+Such information is subject to separate privacy notices that we will make available to those individuals.
+
+ 
+
+Changes: We may update this Notice from time-to-time. The current Notice will be effective as of the Date Last Updated set forth above.  Please check this Notice periodically for updates. When required under applicable law, we will take additional steps to notify you of any changes to this Notice, such as by sending you an email. 
+
+ 
+
+2. Sources of Personal Information
+ 
+
+“Personal Information” or “Personal Data” refers to any information relating to an identified or identifiable natural person or household.  
+
+ 
+
+We collect information about you and how you interact with us in several ways, including:
+
+Information you provide to us directly. We collect information you provide to us directly. This includes when you register for an account, sign up for a subscription, communicate with us through our websites, mobile apps, or other customer service channels, participate in a survey or a sweepstakes or rewards program we offer, shop in our stores, or otherwise interact with us.
+
+Information collected/received from Business Contacts. We may collect and process Personal Information provided to us concerning representatives (e.g., employees) of our current, past, and future Business Contacts.
+
+Information automatically collected or inferred from your interaction with us. We automatically collect technical information about your interactions with us when you use our websites and mobile apps (such as IP address, browsing preferences, and cart and purchase history).  
+
+Information from public sources. We may collect information you submit in public forums, such as statements about Gopuff on social media or public review forums.
+
+Information from other third parties. We may receive information about you from third parties, such as from your friends or family, third party service and content providers including platforms you use to access your account (such as Apple or Google), entities with whom we partner to sell products, telephone and fax companies, social media networks, data brokers, and others interacting with us.
+
+ 
+
+We may combine information that we receive from the various sources described in this Notice, including third party sources and public sources, and use or disclose it for the purposes identified below.
+
+ 
+
+3. Types of Personal Information We Collect
+ 
+
+The types of information we collect are: 
+
+Identifiers, such as your name, alias, postal address, country of residence, unique personal identifier, online identifiers (such as various advertising identifiers), internet protocol (IP) address, email address, account name, phone number, social media identifiers, or other similar identifiers. 
+
+Customer Records, such as signatures and ID cards presented to delivery partners when required for delivery of age-restricted products (such as alcohol, nicotine/tobacco, or CBD) in order to comply with legal requirements and protect against fraud.
+
+Demographic Information, such as age, gender, sex, or date of birth.
+
+Payment Information, if you make a purchase from us, we work with a third-party payment processor to collect and process your payment information.
+
+Commercial Information and Preferences, including products purchased together with details like the date and location of the delivery, products obtained or considered, and other purchasing or consuming histories or tendencies.
+
+Internet or Other Electronic Network Activity and Device Information, such as your browsing history, search history, and information regarding your interactions with us (through our websites and mobile apps, or through advertisements on third party platforms), the operating system/platform of your device, app version, hardware model, mobile network you use, and similar information. We use tracking technologies, such as cookies, pixels, web beacons, APIs, and SDKs to collect information about your interactions with our websites and mobile apps (See Section 6 below to learn more).
+
+Geolocation Information, such as location inferred from your IP address or mobile device location. If you are our customer and if you enabled location sharing for our mobile app, we will collect your precise location in accordance with your device and app permissions.
+
+Audio and Visual Information, such as video recordings and photographs captured in our stores for security, fraud, and loss prevention purposes. We may record calls you place to our customer service call centers and customer support chat logs.
+
+Inferences drawn from any of the information we collect to create a profile about you reflecting information such as your preferences and characteristics.
+
+ 
+
+4. How We Use Your Personal Information
+ 
+
+We may use each category of your information described above in the following ways:
+
+To enable interactions between you and us and to provide services to you, such as to facilitate online purchases of our products; process shipping, returns, and related location tracking; register and administer your account; provide you with and support your interactions with us; diagnose, repair, and track service and quality issues; facilitate an order, download, return, or exchange; provide requested product information; communicate with you about your account or our data practices; install and configure changes and updates to programs and technologies related to interactions with us; authenticate those who interact with us; or to respond to your requests, complaints, and inquiries.
+
+To facilitate subscription programs, such as our FAM monthly/yearly subscription program to deliver to you the benefits associated with these programs when you fulfill the conditions outlined therein (and to verify you have done so), such as reduced delivery fees and other offers, as applicable from time-to-time.
+
+Facilitate business relationships with customers or Business Contacts, such as to enter into contracts, provide you with updates as required under applicable laws and/or agreements with you, to coordinate sales orders and management, warranty management, credit and payment collection, compliance with relevant export control, anti-money laundering, accounting and other business-based legal requirements that require us to process your Personal Information.
+
+For our own internal business-improvement purposes, such as to evaluate or audit the usage and performance of our websites, mobile apps, and programs and technologies related to interactions with us, including crash reporting; evaluate and improve the quality of your interactions with us and programs and technologies related to interactions with us; design new services; perform internal research for technological development and demonstration; conduct data analysis and testing; maintain proper business records and other relevant records. 
+
+Surveys and questionnaires. We may ask you to complete surveys, opinion polls, or other questionnaires in order to obtain your input on our services or relationship, which will help us improve our business practices.
+
+For legal, safety, or security reasons, such as to comply with legal requirements; establish, exercise or defend against legal claims that we may have against you/pursue together with you, whether in court proceedings or in an administrative or out-of-court procedure; protect our safety, our property, or rights of those who interact with us, or others; and detect, prevent, and respond to security incidents or other malicious, deceptive, fraudulent, or illegal activity.
+
+In a de-identified, anonymized, or aggregated format.  Depending on the applicable law, when converted to a de-identified, anonymized, or aggregated format, data may no longer constitute Personal Information and we may use this information for any purpose, as legally permitted.
+
+For marketing.  We may use your Personal Information to market our products or services or those of third parties, such as our business partners. We may use your Personal Information when you participate in marketing surveys, questionnaires, promotions, testimonials, online comments, product feedback, events, sweepstakes, or other contests.  We may audit aspects of our ad impressions. We may use your Personal Information for short-term transient use, including for contextual ad customization. We may use your Personal Information to enhance our content and to potentially send you commercial emails or other digital or voice communications. To opt-out of receiving promotional communications from us, please follow the instructions in those communications. Some of our marketing materials and information may use tracking technologies and analytics tools to help us understand your preferences. For further information, please see Section 6.
+
+For any other purposes for which you provide consent.
+
+ 
+
+5. With Whom We Disclose Your Personal Information
+ 
+
+We may disclose your Personal Information with the categories of recipients described below:
+
+ 
+
+Affiliates and subsidiaries: We may disclose your Personal Information within our group of companies, which includes parents, corporate affiliates, subsidiaries, business units, and other companies that share common ownership. 
+
+Vendors, service providers, and contractors: We disclose your Personal Information to vendors, service providers, and contractors working on our behalf in order to facilitate our interactions with you or request or support our relationship with you, such as hosting service providers, IT providers, operating systems and platforms, internet service providers, data analytics companies, and marketing providers (e.g., we may share your email address with our outbound email marketing provider).  We may contract with other companies to provide certain services, such as identity verification, email distribution, market research, promotions management, and payment processing. 
+
+Business partners: We may disclose your Personal Information to third parties, such as advertising companies, to use for their own purposes including improving their own products and services.
+
+Shipping and Fulfillment partners: We may provide your Personal Information or provide access to your Personal Information to entities that assist us in fulfilling your orders, such as delivery partners, local alcohol stores from which that portion of your order is obtained, and shipping companies that help with delivery.
+
+Professional advisors: We may disclose your Personal Information to various professional advisors such as lawyers, accountants, auditors, translators and where they advise us on our relationship, as well as to our investors.
+
+For legal, security and safety purposes:  We may disclose your Personal Information to third parties such as law enforcement or other government agencies and authorities and courts to comply with law or legal requirements; to enforce or apply our Terms of Use and other agreements; and to protect our rights and our property or safety of our users or third parties; or to otherwise establish, exercise, and defend against legal claims (including by sharing data with opposing or other related parties to the proceedings and their professional advisors). 
+
+In connection with a corporate transaction:  If we negotiate or engage in a transaction to sell/acquire some or all of our assets, merge or are acquired by another entity, including through a sale or in connection with a bankruptcy, we may disclose your Personal Information in connection with the negotiations or as part of that transaction.
+
+The public:  There may be opportunities for you to make public comments regarding us or our products. If you provide testimonials we will post your name along with the testimonial with your consent. If you provide feedback we will post your name along with the feedback with your consent. We may post anonymized testimonials and content feedback without your consent. Any Personal Information in posted testimonials or feedback, and any comments you otherwise post on a blog or forum, may be read, collected, or used by other users or the public. 
+
+With any entity to which you consent or direct us to disclose your Personal Information. 
+
+ 
+
+We may also de-identity, anonymize, or aggregate Personal Information to share with third parties for any purpose, as legally permitted. Gopuff processes, maintains, and uses this information only in a de-identified fashion and will not attempt to re-identify such information, except as permitted by law.
+
+ 
+
+6. How We Use Cookies and Automatic Data Collection Tools
+ 
+
+We also collect information, via cookies, web beacons, pixels, tags, or other tracking technologies, such as your Internet Service Provider and IP address, the date and time you access our websites or mobile apps, the pages you accessed while visiting our websites or mobile apps, and the website from which you accessed our websites or mobile apps. Some cookies exist only during a single session and some are persistent over multiple sessions over time. We and our partners use these technologies to ensure basic functionality of our website and mobile app, to remember user preferences (including regarding your preferences regarding tracking technologies), maximize the performance of our website, mobile app, and services, provide you with offers that may be of interest to you, measure the effectiveness of our website, mobile app, and email campaigns, and to personalize online content. These cookies and other technologies may be used to track you over time and across devices. When required by law, we only use these tracking technologies when you have given us your consent to do so. 
+
+ 
+
+To show you ads targeted to your interests on other companies’ sites or mobile apps and to analyze and track data, determine the popularity of certain ads, and better understand your online activity, we work with third party companies that use cookies, SDKs, and similar tracking technologies as described in this Notice to gather information about your visits to our websites or mobile apps, as well as your visits to other websites and mobile apps. Some of these activities may constitute “targeted advertising,” “sharing,” or “sales” of Personal Information under certain U.S. state privacy laws. Depending upon where you live, you can opt out of ad targeting through cookies and similar technologies on our websites or mobile apps by visiting our Privacy Center. The Digital Advertising Alliance (“DAA”) also offers a choice mechanism with respect to certain types of data collection and use by third parties available at www.aboutads.info/choices, if you reside in the United States or www.youronlinechoices.eu if you reside in Europe.
+
+ 
+
+In addition to cookie-based ad targeting, we may disclose your identifiers, such as your email address(es) and phone number(s), to some of our advertising partners. These advertising partners translate that information into a unique identifier that can then be used to show ads that are more relevant to you across the web and in mobile apps. Depending on where you reside, you may opt out of these disclosures by filling out our web form.
+
+ 
+
+7. Retention
+ 
+
+Your Personal Information will be retained as long as necessary to fulfill the purposes we have outlined in Section 4 of this Notice, unless we are required to do so by applicable law.
+
+ 
+
+This includes retaining your data to provide you with the services requested and interact with you; maintain business relationship with you/your company; prepare for future contract establishment; to improve our business over time; to ensure ongoing legality, safety, and security of our services and relationships; or otherwise in accordance with our internal retention procedures.
+
+Once you / your company has terminated the contractual relationship with us or otherwise ended your relationship with us, we may retain your Personal Information in our systems and records in order to ensure adequate fulfillment of surviving provisions in terminated contracts, or for other legitimate business purposes, such as in order to enable easier future user onboarding, in order to evidence our business practices and contractual obligations, or to provide you with information about our products and services in case interest.
+
+ 
+
+8. Children's Privacy
+ 
+
+Interactions with us are intended for individuals 16 years of age and older.  Our interactions are not directed at, marketed to, nor intended for, children under 16 years of age.  We do not knowingly collect any information, including Personal Information, from children under 16 years of age.  If you believe that we have inadvertently collected Personal Information from a child under the age of 16, please contact us at the address below.
+
+ 
+
+9. Your Choices
+ 
+
+Your Account. You may access, modify, and delete certain information stored within online accounts you may have with us by logging into your account at any time.
+
+Promotional Communications. You may opt out of promotional communications (such as promotional emails or text messages) you receive from us by following the instructions in those communications. If you opt out, we may still send you non-promotional emails, such as about your account or our ongoing business relations.
+
+Mobile Push Notices. With your permission, we may send push notices to your mobile device. You can deactivate these messages at any time by changing the notification settings on your device.
+
+Precise Location Information. With your consent, some of our mobile apps may collect your precise location information. If you initially consent to such collection, you can stop this at any time by changing the preferences on your mobile device.
+
+Cookies Choices. Please review Section 6 above for information about your choices related to our use of cookies and similar technologies.
+
+ 
+
+10. Contact Information
+ 
+
+If you have questions regarding this Notice, please contact us at: dpo@gopuff.com.
+
+ 
+
+11. Additional Information for Customers Residing in Certain U.S. States
+ 
+
+California, Colorado, Connecticut, Utah, and Virginia have enacted consumer privacy laws that grant their residents certain rights and require additional disclosures (“State Privacy Laws”). If you are a resident of one of these states, and to the extent that the State Privacy Laws apply to Gopuff, this section applies to you.
+
+ 
+
+Additional Disclosures
+
+The preceding sections of this Notice explain how we collect, use, and disclose information about you, as well as our targeted advertising and similar practices. Below, we use two different tables to explain this same information in accordance with the State Privacy Laws. The tables describe our data practices now and over the past 12 months.
+
+ 
+
+Collection, Use, and Disclosure of Personal Information for Business Purposes
+
+Categories of Personal 
+
+Information We Collect
+
+Categories of Recipients
+
+Use of Personal Information
+
+Identifiers such as real name, postal address, IP address, email address, account name, date of birth, other similar identifiers.
+
+●        Affiliates and subsidiaries 
+
+●        Service providers and contractors
+
+●        Shipping and fulfilment partners
+
+●        Providers of legal, security, and safety assistance and resources
+
+●        Professional advisors
+
+●        Entities to which you have consented to or directed the disclosure
+
+●        To enable interactions between you and us and to provide our services to you
+
+●        To facilitate subscription programs
+
+●        To facilitate business relationship with customers or Business Contacts
+
+●        For our own internal business-improvement purposes
+
+●        For surveys and questionnaires
+
+●        For legal, safety, or security reasons
+
+●        For marketing
+
+●        For other purposes that you consent or direct
+
+Characteristics of protected classifications under California or Federal Law, such as age and gender.
+
+●        Affiliates and subsidiaries 
+
+●        Service providers and contractors
+
+●        Shipping and fulfilment partners
+
+●        Providers of legal, security, and safety assistance and resources
+
+●        Entities to which you have consented to or directed the disclosure
+
+Commercial information, including products purchased, obtained or considered, or other purchasing or consumer history.
+
+●        Affiliates and subsidiaries 
+
+●        Service providers and contractors
+
+●        Shipping and fulfilment partners
+
+●        Providers of legal, security, and safety assistance and resources
+
+●        Entities to which you have consented to or directed the disclosure
+
+Internet or other electronic network activity information, including, but not limited to, status/HTTP status code, operating system, version of browsing software, device ID, other device information, browsing history, search history and information regarding a consumer’s interaction with an internet website, application, or advertisement.
+
+●        Affiliates and subsidiaries 
+
+●        Service providers and contractors
+
+●        Shipping and fulfilment partners
+
+●        Providers of legal, security, and safety assistance and resources
+
+●        Entities to which you have consented to or directed the disclosure
+
+Geolocation data, such as your city of residence.
+
+●        Affiliates and subsidiaries 
+
+●        Service providers and contractors
+
+●        Shipping and fulfilment partners
+
+●        Providers of legal, security, and safety assistance and resources
+
+●        Entities to which you have consented to or directed the disclosure
+
+Audio or visual data, such as recordings of customer service calls.
+
+●        Affiliates and subsidiaries 
+
+●        Service providers and contractors
+
+●        Providers of legal, security, and safety assistance and resources
+
+●        Entities to which you have consented to or directed the disclosure
+
+Inferences drawn from any of the information identified above, such as about your shopping preferences.
+
+●        Affiliates and subsidiaries 
+
+●        Service providers and contractors
+
+●        Shipping and fulfilment partners
+
+●        Providers of legal, security, and safety assistance and resources
+
+●        Entities to which you have consented to or directed the disclosure
+
+ 
+
+Personal Information that we “Share,” “Sell,” or use for “Targeted Advertising”
+
+We disclose the following categories of Personal Information to third parties to engage in targeted advertising or for their own purposes, such as to expand the reach and effectiveness of our own marketing campaigns and for third parties to improve their own services. These disclosures may be considered “sales” or “sharing” or use of Personal Information for “targeted advertising” under certain State Laws.
+
+ 
+
+Categories of Personal Information
+
+Categories of Third Parties
+
+Identifiers (such as your name, email, and IP address)
+
+Advertising networks and companies, data brokers
+
+Characteristics of protected classifications under California or
+
+Federal law, such as age and gender
+
+Advertising networks and companies, data brokers
+
+Commercial information, such as  products purchased, purchased, obtained or considered, or other purchasing or consumer history
+
+Advertising networks and companies, data brokers
+
+Internet and electronic network activity, such as information about your activity on our websites or in our mobile apps
+
+Advertising networks and companies, data brokers
+
+Inferences drawn from your Personal Information to create a profile, such as about your shopping preferences
+
+Advertising networks and companies, data brokers
+
+ 
+
+ 
+
+Other Details About our Information Practices
+
+ 
+
+We collect Personal Information directly from you (for example, when you place an order from our websites or mobile apps or make a purchase at one of our stores), automatically when you access or use our websites or mobile apps, and from third-party sources, each described in more detail in the “Sources of Personal Information” section above.
+
+We do not knowingly sell or share Personal Information about consumers under the age of 16.
+
+We generally do not collect information that is considered “sensitive” under State Laws. Where we collect information such as your driver’s license or signature for age-restricted products, or precise GPS data if you choose to enable it, we only make such information available to our service providers. We do not use or disclose sensitive Personal Information for the purpose of inferring characteristics about you.
+
+ 
+
+Your Privacy Rights
+
+ 
+
+Opt Out of Sales, Sharing, and Targeted Advertising
+
+Some of the activities described in the “How We Use Cookies and Automatic Data Collection Tools” section above may be considered “sales” or “sharing” of your Personal Information or use of your information for “targeted advertising” under the State Privacy Laws you. You can opt out of cookie-based ad targeting on our website by following the prompts and making a Privacy Request. You will need to renew your opt-out choice if you visit our website from a new device or browser or if you clear your cookies because your opt-out choice will be linked to your browser only. If you reside in California, you can also opt out of web-based ad targeting by visiting our website with a legally recognized opt-out preference signal enabled, such as the Global Privacy Control.
+
+ 
+
+In addition to cookie-based ad targeting, we may disclose information about your purchases and contact information (such as email and mailing address) to advertising companies and networks and other third parties, which may constitute “sales” or “sharing” of your Personal Information or use of your information for “targeted advertising” under the State Privacy Laws. You can opt out of having your information disclosed to these third parties by filling out our web form.
+
+ 
+
+Access, Correction, and Deletion
+
+You have the right to (1) request to know more about and access your Personal Information, including in a portable format, (2) request deletion of your Personal Information, and (3) request correction of inaccurate Personal Information. To request access, correction, or deletion of your Personal Information, please fill out this form. You may also contact us at our toll-free number to submit a request: 888-299-8177. We will verify your request by asking you to provide certain information, such as your name, email address, mailing address, and phone number. You can also access, modify, and delete certain information stored within your online account by logging into your account at any time.
+
+ 
+
+Appeals
+
+If we deny your request, you may appeal our decision by contacting us at dpo@gopuff.com. If you have concerns about the results of an appeal, you may contact the attorney general in the state where you reside.
+
+ 
+
+Nondiscrimination
+
+We will not discriminate against you for exercising your privacy rights.
+
+ 
+
+Authorized Agents
+
+If you reside in California, you can designate an authorized agent to submit a privacy rights request on your behalf. We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request. In some cases, we may be required to contact the individual who is the subject of the request to verify his or her own identity or confirm the authorized agent has permission to submit the request. If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California resident, please fill out this web form.
+
+ 
+
+If you are an authorized agent seeking to make an opt-out request for a consumer in California, Colorado, or Connecticut, please fill out this web form.
+
+ 
+
+Notice of Financial Incentives
+
+We provide discounts, rewards, or other benefits to customers who join our rewards programs or sign up to receive our marketing emails or text messages. These offerings may constitute “financial incentives” or similar terms used under State Privacy Laws. If you participate in a financial incentive, we collect Personal Information from you, such as identifiers (like your name, email address, and phone number) and commercial information (like your purchase history). We disclose this information to our service providers, contractors, and consultants who perform services on our behalf, to other brands in our corporate family, and to our marketing and advertising partners, including for the purposes of engaging in targeted advertising and other marketing activities.
+
+ 
+
+You can opt into a financial incentive by following the sign-up or participation instructions provided and you can opt out at any time by following the unsubscribe instructions in the applicable program’s terms and conditions, promotional emails, or text messages. If you request that we delete any of your Personal Information that is essential to providing you with the financial incentive, we will not be able to provide you with the benefits of that program. In some cases, we may provide additional terms and conditions, which we will provide to you when you sign up. The value of your Personal Information is reasonably related to the value of the offer or discount presented to you.
+
+ 
+
+California Residents - Shine the Light
+
+California’s Shine the Light law permits residents of California to request certain details about how their information is disclosed to third parties for direct marketing purposes. Under the law, Gopuff must either provide this information or permit California residents to opt in to, or opt out of, this type of disclosure. Gopuff qualifies for this alternative option. To opt out of having information about you disclosed to our affiliates or other third parties for direct marketing purposes, please fill out this form.
