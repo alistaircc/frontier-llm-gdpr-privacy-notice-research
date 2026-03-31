@@ -94,7 +94,7 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
   13. Is the categories of personal data concerned; mentioned in all 18 sources?
   14. Is from which source the personal data originate, and if applicable, whether it came from publicly accessible sources; mentioned in all 18 sources?
 
-##### 3. Open the grading_rubic.csv file within Google Sheets and fill out the grades following the rubric.
+##### 3. Open the Grading_Rubric_System.xlsx file within Google Sheets and fill out the grades following the rubric (example screenshot below).
 
 
 <img width="1872" height="430" alt="image" src="https://github.com/user-attachments/assets/ab6b4aad-7a84-465a-ad15-bea42163d729" />
