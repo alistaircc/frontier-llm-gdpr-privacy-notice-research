@@ -68,33 +68,34 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 #### Conduct Grading Rubric Operation 
 1. Open Google's NotebookLM and for a given app, upload the 18 LLM-generated privacy notices to the notebook (don't include the {app_name}_original_privacy_notice.txt)
 
+<img width="1891" height="871" alt="image" src="https://github.com/user-attachments/assets/46b60481-c607-47f5-8127-fc89caa1d6ec" />
+
+
 2. Using the below questions, ask the NotebookLM to answer the following 14 questions:
 
-  - Is the identity and the contact details of the controller and, where applicable, of the controller’s representative; mentioned in all 18 sources?
-  - Is the contact details of the data protection officer, where applicable; mentioned in all 18 sources?
-  - Is the purposes of the processing for which the personal data are intended as well as the legal basis for the processing; mentioned in all 18 sources?
-  - Is where the processing is based on point (f) of Article 6(1), the legitimate interests pursued by the controller or by a third party; mentioned in all 18 sources?
+  *1. Is the identity and the contact details of the controller and, where applicable, of the controller’s representative; mentioned in all 18 sources?
+  *2. Is the contact details of the data protection officer, where applicable; mentioned in all 18 sources?
+  *3. Is the purposes of the processing for which the personal data are intended as well as the legal basis for the processing; mentioned in all 18 sources?
+  *4. Is where the processing is based on point (f) of Article 6(1), the legitimate interests pursued by the controller or by a third party; mentioned in all 18 sources?
 
-  - Is the recipients or categories of recipients of the personal data, if any; mentioned in all 18 sources?
-  - Is where applicable, the fact that the controller intends to transfer personal data to a third country or international organisation and the existence or absence of an adequacy decision by the Commission, or in the case of transfers referred to in Article 46 or 47, or the second subparagraph of Article 49(1), reference to the appropriate or suitable safeguards and the means by which to obtain a copy of them or where they have been made available. mentioned in all 18 sources?
+  *5. Is the recipients or categories of recipients of the personal data, if any; mentioned in all 18 sources?
+  *6. Is where applicable, the fact that the controller intends to transfer personal data to a third country or international organisation and the existence or absence of an adequacy decision by the Commission, or in the case of transfers referred to in Article 46 or 47, or the second subparagraph of Article 49(1), reference to the appropriate or suitable safeguards and the means by which to obtain a copy of them or where they have been made available. mentioned in all 18 sources?
 
-  - Is the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period; mentioned in all 18 sources?
-  - Is the existence of the right to request from the controller access to and rectification or erasure of personal data or restriction of processing concerning the data subject or to object to processing as well as the right to data portability; mentioned in all 18 sources?
+  *7. Is the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period; mentioned in all 18 sources?
+  *8. Is the existence of the right to request from the controller access to and rectification or erasure of personal data or restriction of processing concerning the data subject or to object to processing as well as the right to data portability; mentioned in all 18 sources?
 
-  - Is where the processing is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal; mentioned in all 18 sources?
-  - Is the right to lodge a complaint with a supervisory authority; mentioned in all 18 sources?
+  *9. Is where the processing is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal; mentioned in all 18 sources?
+  *10. Is the right to lodge a complaint with a supervisory authority; mentioned in all 18 sources?
 
-  - Is whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract, as well as whether the data subject is obliged to provide the personal data and of the possible consequences of failure to provide such data; mentioned in all 18 sources?
+  *11. Is whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract, as well as whether the data subject is obliged to provide the personal data and of the possible consequences of failure to provide such data; mentioned in all 18 sources?
 
-  - Is the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject. mentioned in all 18 sources?
+  *12. Is the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject. mentioned in all 18 sources?
 
-  - Is the categories of personal data concerned; mentioned in all 18 sources?
-  - Is from which source the personal data originate, and if applicable, whether it came from publicly accessible sources; mentioned in all 18 sources?
+  *13. Is the categories of personal data concerned; mentioned in all 18 sources?
+  *14. Is from which source the personal data originate, and if applicable, whether it came from publicly accessible sources; mentioned in all 18 sources?
 
 3. Open the grading_rubic.csv file within Google Sheets and fill out the grades following the rubric.
 
-
-<img width="662" height="718" alt="image" src="https://github.com/user-attachments/assets/1d79b425-6d47-45fb-bdf4-1894f8fe5ada" />
 
 <img width="1872" height="430" alt="image" src="https://github.com/user-attachments/assets/ab6b4aad-7a84-465a-ad15-bea42163d729" />
 
