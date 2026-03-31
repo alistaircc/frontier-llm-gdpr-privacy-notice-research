@@ -38,9 +38,10 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 8. Get the associated API keys for each of the LLMs (Google Gemini, ChatGPT, Claude), click on the "Secrets" menu item (left side), and store the values as shown below:
 
 Notebook Access | Name        | Value    |
-Enable          | chatgpt-key | xxxxxxxx |
-Enable          | claude-key  | xxxxxxxx |
-Enable          | gemini-key  | xxxxxxxx |
+|---|---|---|
+|Enable          | chatgpt-key | xxxxxxxx |
+|Enable          | claude-key  | xxxxxxxx |
+|Enable          | gemini-key  | xxxxxxxx |
    
 9. Once changed, run the Generate_LLM_Privacy_Notices.ipynb script (this will create the individual LLM-generated privacy notices for Gemini-2.5-flash, Gemini-2.5-pro, ChatGPT-5, ChatGPT-5.2, Claude-Sonnet-4-5-20250929, Claude-Haiku-4-5-20251001 into each of the 43 app folders).
 
@@ -59,7 +60,7 @@ Enable          | gemini-key  | xxxxxxxx |
 
 ### Steps to Execute 
 #### Conduct Grading Rubric Operation 
-1. Open Google's NotebookLM and for a given app, upload the 18 LLM-generated privacy notices to the notebook (don't include the original_privacy_notice.txt)
+1. Open Google's NotebookLM and for a given app, upload the 18 LLM-generated privacy notices to the notebook (don't include the {app_name}_original_privacy_notice.txt)
 
 2. Using the below questions, ask the NotebookLM to answer the following 14 questions:
 
