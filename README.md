@@ -14,6 +14,7 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 ---
 
 ### Steps to Execute 
+---
 #### Generate LLM Privacy Notices
 1. Clone the repo
 
@@ -37,7 +38,7 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 
 8. Get the associated API keys for each of the LLMs (Google Gemini, ChatGPT, Claude), click on the "Secrets" menu item (left side), and store the values as shown below:
 
-Notebook Access | Name        | Value    |
+|Notebook Access | Name        | Value    |
 |---|---|---|
 |Enable          | chatgpt-key | xxxxxxxx |
 |Enable          | claude-key  | xxxxxxxx |
@@ -48,6 +49,7 @@ Notebook Access | Name        | Value    |
 ---
 
 ### Steps to Execute 
+---
 #### Run Cosine Similarity Data Assessment 
 1. Open the Data_Analysis_Sentence_Transformers_Similarity.ipynb script file within Google Colab and change the following {folder_location} values match the file path of Datasets
 
@@ -62,6 +64,7 @@ Notebook Access | Name        | Value    |
 ---
 
 ### Steps to Execute 
+---
 #### Conduct Grading Rubric Operation 
 1. Open Google's NotebookLM and for a given app, upload the 18 LLM-generated privacy notices to the notebook (don't include the {app_name}_original_privacy_notice.txt)
 
