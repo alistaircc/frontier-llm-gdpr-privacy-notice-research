@@ -51,12 +51,12 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 ### Steps to Execute 
 ---
 #### Run Cosine Similarity Data Assessment 
-1. Open the Data_Analysis_Sentence_Transformers_Similarity.ipynb script file within Google Colab and change the following {folder_location} values match the file path of Datasets
+##### 1. Open the Data_Analysis_Sentence_Transformers_Similarity.ipynb script file within Google Colab and change the following {folder_location} values match the file path of Datasets
 
   * folder_path = "/content/drive/MyDrive/{folder_name}/Datasets/**/*.txt"
   * directory_path = "/content/drive/MyDrive/{folder_name}/Datasets/"
 
-2. Once changed, run the Data_Analysis_Sentence_Transformers_Similarity.ipynb script (this will create the Sentence Transformer-based similarity scores for each app x llm persona).
+##### 2. Once changed, run the Data_Analysis_Sentence_Transformers_Similarity.ipynb script (this will create the Sentence Transformer-based similarity scores for each app x llm persona).
 
 <img width="1078" height="503" alt="image" src="https://github.com/user-attachments/assets/83732a30-15d8-41e4-ab63-b8dcbb4bbd28" />
 
@@ -66,12 +66,12 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 ### Steps to Execute 
 ---
 #### Conduct Grading Rubric Operation 
-###### Open Google's NotebookLM and for a given app, upload the 18 LLM-generated privacy notices to the notebook (don't include the {app_name}_original_privacy_notice.txt)
+##### 1. Open Google's NotebookLM and for a given app, upload the 18 LLM-generated privacy notices to the notebook (don't include the {app_name}_original_privacy_notice.txt)
 
 <img width="1891" height="871" alt="image" src="https://github.com/user-attachments/assets/46b60481-c607-47f5-8127-fc89caa1d6ec" />
 
 
-###### Using the below questions, ask the NotebookLM to answer the following 14 questions:
+##### 2. Using the below questions, ask the NotebookLM to answer the following 14 questions:
 
   1. Is the identity and the contact details of the controller and, where applicable, of the controller’s representative; mentioned in all 18 sources?
   2. Is the contact details of the data protection officer, where applicable; mentioned in all 18 sources?
@@ -94,7 +94,7 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
   13. Is the categories of personal data concerned; mentioned in all 18 sources?
   14. Is from which source the personal data originate, and if applicable, whether it came from publicly accessible sources; mentioned in all 18 sources?
 
-###### Open the grading_rubic.csv file within Google Sheets and fill out the grades following the rubric.
+##### 3. Open the grading_rubic.csv file within Google Sheets and fill out the grades following the rubric.
 
 
 <img width="1872" height="430" alt="image" src="https://github.com/user-attachments/assets/ab6b4aad-7a84-465a-ad15-bea42163d729" />
