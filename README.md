@@ -66,12 +66,12 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 ### Steps to Execute 
 ---
 #### Conduct Grading Rubric Operation 
-1. Open Google's NotebookLM and for a given app, upload the 18 LLM-generated privacy notices to the notebook (don't include the {app_name}_original_privacy_notice.txt)
+###### Open Google's NotebookLM and for a given app, upload the 18 LLM-generated privacy notices to the notebook (don't include the {app_name}_original_privacy_notice.txt)
 
 <img width="1891" height="871" alt="image" src="https://github.com/user-attachments/assets/46b60481-c607-47f5-8127-fc89caa1d6ec" />
 
 
-2. Using the below questions, ask the NotebookLM to answer the following 14 questions:
+###### Using the below questions, ask the NotebookLM to answer the following 14 questions:
 
   1. Is the identity and the contact details of the controller and, where applicable, of the controller’s representative; mentioned in all 18 sources?
   2. Is the contact details of the data protection officer, where applicable; mentioned in all 18 sources?
@@ -94,7 +94,7 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
   13. Is the categories of personal data concerned; mentioned in all 18 sources?
   14. Is from which source the personal data originate, and if applicable, whether it came from publicly accessible sources; mentioned in all 18 sources?
 
-3. Open the grading_rubic.csv file within Google Sheets and fill out the grades following the rubric.
+###### Open the grading_rubic.csv file within Google Sheets and fill out the grades following the rubric.
 
 
 <img width="1872" height="430" alt="image" src="https://github.com/user-attachments/assets/ab6b4aad-7a84-465a-ad15-bea42163d729" />
