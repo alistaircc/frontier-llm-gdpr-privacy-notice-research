@@ -23,8 +23,8 @@ This GitHub repo outlines the systematic steps taken to conduct research on popu
 
 4. Open the Folder_Organizer.ipynb script file within Google Colab and change the following {folder_name} values to match the file path of Dataset.csv
 
-- csv_file ="/content/drive/MyDrive/{folder_name}/Datasets/Dataset.csv"
-- base_path ="/content/drive/MyDrive/{folder_name}/Datasets"
+* csv_file ="/content/drive/MyDrive/{folder_name}/Datasets/Dataset.csv"
+* base_path ="/content/drive/MyDrive/{folder_name}/Datasets"
 
 5. Once changed, run the Folder_Organizer.ipynb script (this will create individual folders for each app listed within the Dataset.csv file). Once completed, you should have 43 new folders, one for each app.
 
